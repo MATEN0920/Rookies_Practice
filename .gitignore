@@ -1,5 +1,0 @@
-# Ignore data/text/log files
-*.txt
-*.json
-*.log
-*.csv
